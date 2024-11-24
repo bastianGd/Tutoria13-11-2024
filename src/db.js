@@ -2,7 +2,7 @@ export const productos = [
     {
         id: "1",
         nombre: "iPhone 14 Pro Max",
-        // imagenUrl: "https://http2.mlstatic.com/D_NQ_NP_881016-MLM51559383738_092022-O.webp",
+        imagenUrl: "https://http2.mlstatic.com/D_NQ_NP_881016-MLM51559383738_092022-O.webp",
         precio: 100,
         sku: "1234567890",
         stock: 100,
@@ -12,7 +12,7 @@ export const productos = [
     {
         id: "2",
         nombre: "Samsung Galaxy S23 Ultra",
-        // imagenUrl: "https://m.media-amazon.com/images/I/61rupRKYxVL._AC_UY218_.jpg",
+        imagenUrl: "https://m.media-amazon.com/images/I/61rupRKYxVL._AC_UY218_.jpg",
         precio: 2000,
         sku: "9876543210",
         stock: 50,
@@ -21,7 +21,7 @@ export const productos = [
     {
         id: "3",
         nombre: "MacBook Pro M2 Pro",
-        // imagenUrl: "https://http2.mlstatic.com/D_NQ_NP_765890-MLU77742156542_072024-O.webp",
+        imagenUrl: "https://http2.mlstatic.com/D_NQ_NP_765890-MLU77742156542_072024-O.webp",
         precio: 3000,
         sku: "0987654321",
         stock: 0,
@@ -30,7 +30,7 @@ export const productos = [
     {
         id: "4",
         nombre: "Asus ROG Strix G15",
-        // imagenUrl: "https://m.media-amazon.com/images/I/71dwsA3KsfL._AC_SL1500_.jpg",
+        imagenUrl: "https://m.media-amazon.com/images/I/71dwsA3KsfL._AC_SL1500_.jpg",
         precio: 5000,
         sku: "1098765432",
         stock: 70,
@@ -39,7 +39,7 @@ export const productos = [
     {
         id: "5",
         nombre: "Xbox Series X",
-        // imagenUrl: "https://http2.mlstatic.com/D_NQ_NP_942133-MLA74651936102_022024-O.webp",
+        imagenUrl: "https://http2.mlstatic.com/D_NQ_NP_942133-MLA74651936102_022024-O.webp",
         precio: 700,
         sku: "2109876543",
         stock: 150,

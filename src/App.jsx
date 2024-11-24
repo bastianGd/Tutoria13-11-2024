@@ -1,3 +1,4 @@
+import ApiGatos from "./components/API_Gatos/ApiGatos"
 import { Card } from "./components/card/Card"
 import { Footer } from "./components/footer/Footer"
 import { Formulario } from "./components/formulario/Form"
@@ -12,8 +13,9 @@ function App() {
     <>
       <Navbar />
       {/* <Card /> */}
-      {/* <Formulario /> */}
-      <Productos />
+      <Formulario />
+      <ApiGatos/>
+      {/* <Productos /> */}
       <Footer description={"© 2018 Cuppon Latam .Todos los derechos Reservados."} />
     </>
   )
